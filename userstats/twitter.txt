@@ -1,5 +1,5 @@
 Twitter user statistics ( Early 2017 )
-
+------------------------
 
 Total Number of Monthly Active Twitter Users: 317 million
 
@@ -9,6 +9,14 @@ Percentage of Twitter users on Mobile: 80%
 
 Number of Twitter Daily Active Users: 100 million
 
+Twitter usage statistics
+-------------------------
+There are 500 million Tweets sent each day. That’s 6,000 Tweets every second
+
+The most retweeted Tweet has 3.33m RTs: 
+
+
+================
 
 A total of 1.3 billion accounts have been created
 
